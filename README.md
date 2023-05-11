@@ -9,8 +9,6 @@
 </a>
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
 I am a second-year student of Computer Engineering.
 Additionally, I work as a freelancer in Web Development and
 Graphic Design fields on the Bionluk platform. Currently, I am
@@ -21,6 +19,8 @@ my skills and learn from experienced team members. I am
 knowledgeable in Flutter, Java, C++, SQL, PHP, HTML/CSS, and
 Unreal Engine. Moreover, I have experience in managing
 technical teams and effectively organizing corporate operations.
+<table><tr><td valign="top" width="50%">
+
 
 ~ MY SKILLS ~
 <br>- Mobil Developer 
