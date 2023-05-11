@@ -17,7 +17,6 @@
 <br>Web Developer 
 <br> Graphic Design <br>
 
-- ☁️🍺✈️⚽🏈🎾🎮 <br>
 
 
 
