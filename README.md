@@ -12,10 +12,10 @@
 
 <table><tr><td valign="top" width="50%">
 
-- whoami┊</>
+- MY SKILLS┊</>
 <br>Mobil Developer 
 <br>Web Developer 
-<br> Computer Engineering Student <br>
+<br> Graphic Design <br>
 
 - ☁️🍺✈️⚽🏈🎾🎮 <br>
 
@@ -84,11 +84,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mertdemirtez" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=1brahimbircan" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdemirtez" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brahimbircan" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -99,7 +99,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mertdemirtez" align="center" />
+<img src="https://komarev.com/ghpvc/?username=1brahimbircan" align="center" />
 </div>  
   
 
