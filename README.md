@@ -13,9 +13,9 @@
 <table><tr><td valign="top" width="50%">
 
 ~ MY SKILLS ~
-<br>Mobil Developer 
-<br>Web Developer 
-<br> Graphic Design <br>
+<br>- Mobil Developer 
+<br>- Web Developer 
+<br>- Graphic Design <br>
 
 
 
