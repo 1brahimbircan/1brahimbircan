@@ -12,7 +12,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- MY SKILLS┊</>
+- MY SKILLS -
 <br>Mobil Developer 
 <br>Web Developer 
 <br> Graphic Design <br>
