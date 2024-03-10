@@ -56,11 +56,11 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=1brahimbircan" align="left" style="width: 100%" />
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brahimbircan" align="left" style="width: 100%" />
 
